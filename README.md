@@ -30,7 +30,7 @@ Lab 3 Materials: `Introduction-to-Social-Networks-Lab3.ipynb` first, and TA will
 1. Lab 3 Homework
 
 - Download the Lab 3 homework assignment.
-    - Filename: `Social-Networks-Lab3-Homework`
+    - Filename: `\Homework\Social-Networks-Lab3-Homework`
 - Follow the instructions provided within the document.
 
 2. Kaggle Competition Deadline
