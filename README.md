@@ -19,7 +19,7 @@ We are excited to launch Lab 3, which includes an instructional video and homewo
 
 - We have uploaded the reference answer, you can check it through the file `Lab_Preview_reference_answer.ipynb`.
 
-4. Download the course material before the start of the Lab3
+4. Download the course material before the start of the Lab3 course
 
 - Before to the day of the course, you can download the 
 Lab 3 Materials Download `Introduction-to-Social-Networks-Lab3.ipynb` first, and TA will go throught the content on the course.
