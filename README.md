@@ -15,7 +15,7 @@ We are excited to launch Lab 3, which includes an instructional video and homewo
 
 3. Try the Preview Lab exercise
 
-- After watching the online course videoes, you can start to try out the take-home exercise in the `Lab_Preview.ipynb`.
+- After watching the online course videoes, you can start to try out the take-home exercises in the `Lab_Preview.ipynb`.
 
 - We have uploaded the reference answer, you can check it through the file `Lab_Preview_reference_answer.ipynb`.
 
