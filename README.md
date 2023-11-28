@@ -7,21 +7,21 @@ We are excited to launch Lab 3, which includes an instructional video and homewo
 
 1. Lab Preview Materials Download
 
-Download the Preview Lab course materials from this github repo. The name of the file is `Lab_Preview.ipynb`
+- Download the Preview Lab course materials from this github repo. The name of the file is `Lab_Preview.ipynb`
 
 2. Access your course content through the dedicated YouTube playlist.
 
-Playlist: Introduction-to-Social-Networks-Lab3 Preview (https://www.youtube.com/watch?v=YG1nCE_FaWI&list=PLo0uVI-qZd4pSON_FT7dewGDXujdstDvP&index=1&ab_channel=%E4%BA%94%E4%BB%A3GG)
+- Playlist: [Introduction-to-Social-Networks-Lab3 Preview](https://www.youtube.com/watch?v=YG1nCE_FaWI&list=PLo0uVI-qZd4pSON_FT7dewGDXujdstDvP&index=1&ab_channel=%E4%BA%94%E4%BB%A3GG)
 
 3. Try the Preview Lab exercise
 
-After watching the online course videoes, you can start to try out the take-home exercise in the `Lab_Preview.ipynb`.
+- After watching the online course videoes, you can start to try out the take-home exercise in the `Lab_Preview.ipynb`.
 
-We have uploaded the reference answer, you can check it through the file `Lab_Preview_reference_answer.ipynb`.
+- We have uploaded the reference answer, you can check it through the file `Lab_Preview_reference_answer.ipynb`.
 
 4. Download the course material before the start of the Lab3
 
-Before to the day of the course, you can download the 
+- Before to the day of the course, you can download the 
 Lab 3 Materials Download `Introduction-to-Social-Networks-Lab3.ipynb` first, and TA will go throught the content on the course.
 
 
