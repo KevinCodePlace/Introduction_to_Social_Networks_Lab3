@@ -39,10 +39,10 @@ Lab 3 Materials: `Lab3.ipynb` first, and TA will go through the content on the c
 2. Kaggle Competition Deadline
 
 - You will have a private kaggle competition(only for the social network students) in Lab3 homework
-- The deadline for submission is 12/27 (Wednesday) at 23:59
+- The deadline for submission is 12/19 (Tuesday) at 23:59
 - Please note that you can only submit 5 times per day. Try earlier is strongly recommended.
 
 3. Submission Deadline
 
-- The deadline for Lab 3 homework submission is 12/31 (Sunday) at 23:59.
+- The deadline for Lab 3 homework submission is 12/20 (Wednesday) at 23:59.
 - Please note that no extensions will be granted for the submission deadline.
