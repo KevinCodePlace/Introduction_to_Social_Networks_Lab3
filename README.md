@@ -22,7 +22,7 @@ We are excited to launch Lab 3, which includes an instructional video and homewo
 4. Download the course material before the start of the Lab3 course
 
 - Before to the day of the course, you can download the 
-Lab 3 Materials: `Introduction-to-Social-Networks-Lab3.ipynb` first, and TA will go through the content on the course.
+Lab 3 Materials: `Introduction-to-Social-Networks-Lab3.ipynb` and the `data` folder first, and TA will go through the content on the course.
 
 
 ## After Class
