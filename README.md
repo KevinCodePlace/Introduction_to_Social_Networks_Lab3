@@ -47,3 +47,10 @@ Lab 3 Materials: `Lab3.ipynb` first, and TA will go through the content on the c
 - The deadline for Lab 3 homework submission is 12/20 (Wednesday) at 23:59.
 - Please note that no extensions will be granted for the submission deadline.
 - Submit your homework `Social-Networks-Lab3-Homework.ipynb`, rename the file to `{Yourname}_lab3_homework.ipynb`, zip the file with {Yourname}_rank.jpg/png and submit the zipped file to this folder: [link](https://drive.google.com/drive/folders/1auARVdUHtww5U_T6MDeiZ8ApZ_ANjeYl?usp=sharing)
+
+The following is the structure of your homework file
+```
+{Yourname}_lab3_homework.zip
+├── {Yourname}_lab3_homework.ipynb
+└── {Yourname}_rank.jpg/png
+```
