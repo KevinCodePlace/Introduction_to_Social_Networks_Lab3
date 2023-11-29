@@ -26,6 +26,9 @@ Lab 3 Materials: `Lab3.ipynb` first, and TA will go through the content on the c
 
 
 ## After Class
+0. Lab 3 Take Home Exercise
+
+- It is only for exercise. We will not score this result. We have uploaded the reference answer, you can check it through the file `Lab3_Reference_Answer.ipynb`.
 
 1. Lab 3 Homework
 
