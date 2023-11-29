@@ -17,7 +17,7 @@ We are excited to launch Lab 3, which includes an instructional video and homewo
 
 - After watching the online course videoes, you can start to try out the take-home exercises in the `Lab_Preview.ipynb`.
 
-- We have uploaded the reference answer, you can check it through the file `Lab_Preview_reference_answer.ipynb`.
+- We have uploaded the reference answer, you can check it through the file `Lab_Preview_Reference_Answer.ipynb`.
 
 4. Download the course material before the start of the Lab3 course
 
